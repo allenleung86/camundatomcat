@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/workspace.xml
+lib/mysql-connector-java-8.0.15.jar
+server/apache-tomcat-9.0.12/conf/Catalina/
+server/apache-tomcat-9.0.12/webapps/h2/WEB-INF/classes/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/camunda-invoice/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/camunda-welcome/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/camunda/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/docs/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/engine-rest/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/examples/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/h2/
+server/apache-tomcat-9.0.12/work/Catalina/localhost/host-manager/
