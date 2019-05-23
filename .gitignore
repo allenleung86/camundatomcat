@@ -9,7 +9,6 @@ out
 gen
 .gitignore
 .idea/workspace.xml
-lib/mysql-connector-java-8.0.15.jar
 server/apache-tomcat-9.0.12/conf/Catalina/
 server/apache-tomcat-9.0.12/webapps/h2/WEB-INF/classes/
 server/apache-tomcat-9.0.12/work/Catalina/localhost/camunda-invoice/
