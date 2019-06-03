@@ -19,3 +19,7 @@ server/apache-tomcat-9.0.12/work/Catalina/localhost/engine-rest/
 server/apache-tomcat-9.0.12/work/Catalina/localhost/examples/
 server/apache-tomcat-9.0.12/work/Catalina/localhost/h2/
 server/apache-tomcat-9.0.12/work/Catalina/localhost/host-manager/
+server/apache-tomcat-9.0.12/logs/
+server/apache-tomcat-9.0.12/temp/
+server/apache-tomcat-9.0.12/work/
+server/apache-tomcat-9.0.12/bin/camunda-h2-dbs/process-engine.mv.db

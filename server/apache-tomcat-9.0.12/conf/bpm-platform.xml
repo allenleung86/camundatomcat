@@ -13,7 +13,10 @@
 
     <properties>
       <property name="history">full</property>
+
+      <!-- 项目启动时,如果数据库原来没有工作流相关表,则通过这个配置可以自动创建相关表 -->
       <property name="databaseSchemaUpdate">true</property>
+
       <property name="authorizationEnabled">true</property>
       <property name="jobExecutorDeploymentAware">true</property>
       <property name="historyCleanupBatchWindowStartTime">00:01</property>
